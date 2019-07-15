@@ -1,4 +1,4 @@
-package com.example.activityjava.second_activity;
+package com.example.activityjava.activities.secondActivity;
 
 interface SecondContract {
 

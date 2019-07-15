@@ -1,4 +1,4 @@
-package com.example.activityjava.second_activity;
+package com.example.activityjava.activities.secondActivity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -72,5 +72,6 @@ public class SecondActivity extends AppCompatActivity implements SecondContract.
     @Override
     public void finishActivity() {
         finish();
+        Log.d(LOG_TAG, "Finish activity in SecondActivity.class");
     }
 }

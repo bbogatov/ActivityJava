@@ -6,8 +6,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.activityjava.activities.main_activity.MainContract;
-import com.example.activityjava.activities.main_activity.MainPresenter;
+import com.example.activityjava.activities.mainActivity.MainContract;
+import com.example.activityjava.activities.mainActivity.MainPresenter;
 
 public class MainActivity extends AppCompatActivity implements MainContract.View {
     private final String LOG_TAG = "Main_activity_class";

@@ -1,4 +1,4 @@
-package com.example.activityjava.activities.main_activity;
+package com.example.activityjava.activities.mainActivity;
 
 import android.content.Context;
 
